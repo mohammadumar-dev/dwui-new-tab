@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "DWUI New Tab",
+  "version": "1.0.0",
+
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+
+  "background": {
+    "type": "module"
+  },
+
+  "permissions": [
+    "storage",
+    "tabs",
+    "search"
+  ]
+}
