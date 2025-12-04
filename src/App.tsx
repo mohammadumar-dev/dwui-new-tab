@@ -6,6 +6,8 @@ import { SidebarInset, SidebarProvider } from "./components/ui/sidebar";
 import DigitalClock from "./components/DigitalClock";
 import SearchBar from "./components/SearchBar";
 import Aurora from "./components/Aurora";
+import ShortcutsGrid from "./components/ShortcutsGrid";
+import { Toaster } from "./components/Toaster";
 
 function App() {
   return (
@@ -48,8 +50,15 @@ function App() {
           <div className="px-6 mt-4 flex justify-center">
             <SearchBar />
           </div>
+
+          {/* Shortcuts Grid */}
+          <div className="px-6 mt-10 flex justify-center">
+            <ShortcutsGrid />
+          </div>
+
         </SidebarInset>
       </SidebarProvider>
+      <Toaster position="bottom-right" />
     </>
   );
 }
