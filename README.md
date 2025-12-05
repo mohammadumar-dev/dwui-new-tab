@@ -1,13 +1,31 @@
-# DWUI - Dynamic Web User Interface
+<p align="center">
+  <img src="./public/icons/logo-500x500.png" width="120" alt="DWUI Logo" />
+</p>
 
-> Transform your boring Chrome new tab into a stunning, modern interface with glassmorphism effects and smooth animations.
+<h1 align="center">DWUI - Dynamic Web User Interface</h1>
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=flat&logo=opensource&logoColor=white)](https://choosealicense.com/licenses/mit/)
-[![React](https://img.shields.io/badge/React-19.2.0-blue.svg?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-blue.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-7.2.4-purple.svg?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-red.svg?style=flat&logo=shadcn&logoColor=white)](https://ui.shadcn.com/)
-[![Release](https://img.shields.io/github/v/release/mohammadumar-dev/dwui-new-tab?style=flat&logo=github)](https://github.com/mohammadumar-dev/dwui-new-tab/releases)
+<p align="center">Transform your boring Chrome new tab into a stunning, modern interface with glassmorphism effects and smooth animations.</p>
+
+<p align="center">
+  <a href="https://choosealicense.com/licenses/mit/">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat&logo=opensource&logoColor=white" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-19.2.0-blue.svg?style=flat&logo=react&logoColor=white" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-5.9.3-blue.svg?style=flat&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://vitejs.dev/">
+    <img src="https://img.shields.io/badge/Vite-7.2.4-purple.svg?style=flat&logo=vite&logoColor=white" />
+  </a>
+  <a href="https://ui.shadcn.com/">
+    <img src="https://img.shields.io/badge/Shadcn%20UI-red.svg?style=flat&logo=shadcn&logoColor=white" />
+  </a>
+  <a href="https://github.com/mohammadumar-dev/dwui-new-tab/releases">
+    <img src="https://img.shields.io/github/v/release/mohammadumar-dev/dwui-new-tab?style=flat&logo=github" />
+  </a>
+</p>
 
 ## 🛒 Browser Store Availability
 
