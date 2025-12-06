@@ -27,12 +27,15 @@
   </a>
 </p>
 
-## 🛒 Browser Store Availability
+## 🛒 **Browser Extension Availability**
 
-🚀 **Coming soon to:**
+🚀 **Now Available**  
+- **Chrome Web Store** – Install here: *(https://chromewebstore.google.com/detail/dwui-new-tab/ngecoiihhnlpkkajpfpdnmbfhmhdknac)*
 
-- **Chrome Web Store** – Coming soon 
-- **Microsoft Edge Add-ons Store** – Coming soon  
+⏳ **Coming Soon**  
+- **Microsoft Edge Add-ons Store**
+
+Stay tuned for more platform releases! 
 
 ## 📸 Screenshots
 
